@@ -12,7 +12,7 @@
 
 ## 사용자 권한
 
-귀하는 언제든지 귀하의 Discord 계정과 관련된 데이터 보기를 요청할 권리가 있습니다. [Discord 서버](http://chat.nhcarrigan.com)를 통해 요청하실 수 있습니다. 귀하는 관련 데이터의 삭제를 요청할 권리가 있습니다.
+귀하는 언제든지 귀하의 Discord 계정과 관련된 데이터 보기를 요청할 권리가 있습니다. [Discord 서버]([http://chat.nhcarrigan.com](https://discord.gg/yuW4ghPtZd))를 통해 요청하실 수 있습니다. 귀하는 관련 데이터의 삭제를 요청할 권리가 있습니다.
 
 ## 미성년자 사용자
 
